@@ -54,4 +54,4 @@ const times = [
 
 const res = mergeRanges(times)
 
-console.log(res)
+
